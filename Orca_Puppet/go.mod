@@ -35,12 +35,12 @@ require (
 	github.com/xtaci/smux v1.5.16
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.23.0
-	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
-	golang.org/x/sys v0.0.0-20220804214406-8e32c043e418
-	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035
-	golang.org/x/text v0.3.7
-	google.golang.org/protobuf v1.28.1
+	golang.org/x/crypto v0.23.0
+	golang.org/x/net v0.25.0
+	golang.org/x/sys v0.20.0
+	golang.org/x/term v0.20.0
+	golang.org/x/text v0.16.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
@@ -118,10 +118,9 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
-	golang.org/x/image v0.0.0-20220617043117-41969df76e82 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/tools v0.1.10 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/image v0.18.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 )
